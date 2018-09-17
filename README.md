@@ -1,3 +1,5 @@
+ClonoTracker Command Line (ClonoTracker-CL) is the command line tool we use to profile adpative immune repertoires. In particular, we use it to analyze the sequencing data generated from MiSeq using [LymphoTrack TRG and IGH kits](https://www.invivoscribe.com/catalog/lymphotrack-dx-miseq). Under the hood, it wraps [MiXCR](https://github.com/milaboratory/mixcr) and [VDJTools](https://github.com/mikessh/vdjtools).
+
 # Installing tools
 
 Conda and packages that can be installed via Conda.
